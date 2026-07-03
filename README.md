@@ -1,3 +1,3 @@
 # code-demo
 Git practice
-Auther - Prithiraj Muchahary
+Author - Prithiraj Muchahary
